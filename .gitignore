@@ -1,0 +1,5 @@
+# Static site — nothing to build, but keep OS/editor noise out
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
