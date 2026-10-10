@@ -20,6 +20,9 @@ pitch the shop, alongside a personalized outreach letter.
 
 ## Viewing it
 
+- **Live site** (GitHub Pages): https://ejbarraza.github.io/jims-auto-repair-demo
+- **Original hosted concept demo:** https://muse.ai/s/jim-s-demo-site-wxm5xvpxbqxexbgq
+
 Open `index.html` directly, or serve the folder:
 
 ```bash
